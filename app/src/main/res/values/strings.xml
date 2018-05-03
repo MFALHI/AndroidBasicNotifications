@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidBasicNotifications</string>
+    //Notifications
+    <string name="app_notification_title">Basic Notifications Sample</string>
+    <string name="app_notification_text">Time to learn about notifications!</string>
+    <string name="app_notification_subtext">Tap to view documentation about notifications.</string>
+    //Layout Description
+    <string name="description">
+        Tap the button below to send a notification.\n\nThe notification\'s icon will immediately
+        appear in the notification bar. Drag the notification bar open to see the full
+        notification. Depending on which version of Android you\'re running, the full
+        notification will display an icon and two or three lines of text.
+        \n\nTap the notification to execute the notification\'s \"action,\". This sample notification\'s
+        action is to send a browse intent with the url of the Notification docs on
+        developer.android.com.
+        \n\nThis sample uses the NotificationCompat API for maximum compatibility with versions
+        of Android from Froyo (Android 2.2) to the present. NotificationCompat automatically takes
+        advantage of the expanded notification format in newer versions of Android, and
+        falls back gracefully to a reduced set of functionality on earlier versions.
+    </string>
+</resources>
