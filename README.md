@@ -4,15 +4,17 @@
 
 Basic android sample app to learn how to display app notifications.
 
-Tap the button below to send a notification.\n\nThe notification\'s icon will immediately appear in the notification bar. 
+Tap the button to send a notification. The notification\'s icon will immediately appear in the notification bar. 
+
 Drag the notification bar open to see the full notification. Depending on which version of Android you\'re running, the full
-notification will display an icon and two or three lines of text. \n\nTap the notification to execute the notification\'s 
-\"action,\". This sample notification\'s action is to send a browse intent with the url of the Notification docs on developer.android.com.
+notification will display an icon and two or three lines of text.
+
+Tap the notification to execute the notification\'s \"action,\". This sample notification\'s action is to send a browse intent with the url of the Notification docs on developer.android.com.
 
 ## App Widget Sample Screenshot
 
-<img width="40%" src="https://user-images.githubusercontent.com/16917821/39574605-7507721a-4ef5-11e8-9b0e-dbd5cb5a414c.png" /> &nbsp; &nbsp;
-&nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/16917821/39574725-d18a04bc-4ef5-11e8-82a0-140e79196541.png" />
+<img width="40%" src="https://user-images.githubusercontent.com/16917821/39594842-70674790-4f2b-11e8-8874-4c9f1985ce1b.png" /> &nbsp; &nbsp;
+&nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/16917821/39594905-914ec1c2-4f2b-11e8-9ec5-5a0d515fcf43.png" />
 
 
 ## License
